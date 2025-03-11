@@ -5,15 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7249b7bc-77c2-4fb1-8e53-b5dc3d0cc39b" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/FitnessInstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/GetUpCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/ICommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/LieDownCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/Trainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/Viewer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/observer/IObservable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/observer/IObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,22 +23,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "punkhye"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;punkhye&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/punkhye/design-patterns-hw1.git",
-    "accountId": "12a43a8b-f13a-43bf-85ab-981b2156798c"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/punkhye/design-patterns-hw1.git&quot;,
+    &quot;accountId&quot;: &quot;12a43a8b-f13a-43bf-85ab-981b2156798c&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2uB6lt2mfWb48P6WqzdJcTTPU00" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -58,6 +49,7 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/intellijProjects/hw1",
@@ -107,6 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1741709775996</updated>
       <workItem from="1741709777096" duration="6263000" />
+      <workItem from="1741716236147" duration="300000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -124,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741709839187</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit">
+      <option name="closed" value="true" />
+      <created>1741716497565</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741716497565</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
